@@ -43,6 +43,11 @@ Proyek ini bertujuan untuk memprediksi banjir menggunakan data yang dikirimkan o
 
 ## Cara Menjalankan
 
-1. Clone repositori ini:
+1. **Jalankan Simulasi Wokwi**:
+   - Kunjungi [link Wokwi](https://wokwi.com/projects/320964045035274834) untuk menjalankan simulasi perangkat IoT.
+   - Perangkat ini akan mengirimkan data sensor ke broker MQTT. Pastikan broker MQTT sudah disiapkan dan dapat menerima data.
+   
+2. **Clone Repositori**:
+   Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone https://github.com/username/repository.git
