@@ -1,11 +1,12 @@
 # Tugas IoT Prediksi Banjir
 
+**Teknik Informatika Universitas Krisnadwipayana**
+
 Kelompok:
 - **Annisa Nuraini** - 2170231111
 - **Nabila Aulia Putri** - 2170231109
 - **Wisnu Wardanu** - 2170231125
 
-Informatika Unkris
 
 **Link Wokwi**: [https://wokwi.com/projects/320964045035274834](https://wokwi.com/projects/320964045035274834)
 
